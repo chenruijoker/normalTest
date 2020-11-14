@@ -1,0 +1,23 @@
+{
+  "name": "normaltest",
+  "version": "1.0.0",
+  "description": "-- 厦门铃盛面试题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenruijoker/normalTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenruijoker/normalTest/issues"
+  },
+  "homepage": "https://github.com/chenruijoker/normalTest#readme",
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
